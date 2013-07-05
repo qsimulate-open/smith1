@@ -1,0 +1,40 @@
+This stone-age program implements arbitrary-order CC and CC-F12 algorithms. 
+
+Author:
+  Toru Shiozaki <shiozaki@northwestern.edu>
+
+With a contribution from
+  Prof. Muneaki Kamiya
+
+Under the guidance of
+  Prof. So Hirata (UF, now at UIUC) 
+  Prof. Edward Valeev (Virginia Tech) 
+
+
+>> disclaimer <<
+
+This was written when I did not know that python program can be split into several files (nobody taught me that!).  Therefore everything is in one python file. I must admit that (as of July 2013) I do not remember how to use it exactly :-)
+
+Relevant references (proof that it once worked):
+
+T. Shiozaki, M. Kamiya, S. Hirata, and E. F. Valeev,
+Physical Chemistry Chemical Physics 10, 3358 (2008), 
+"Equations of explicitly-correlated coupled-cluster methods."
+
+T. Shiozaki, M. Kamiya, S. Hirata, and E. F. Valeev,
+The Journal of Chemical Physics (Comm.) 129, 071101 (2008),
+"Explicitly correlated coupled-cluster singles and doubles method based on complete diagrammatic equations."
+
+T. Shiozaki, M. Kamiya, S. Hirata, and E. F. Valeev,
+The Journal of Chemical Physics 130, 054101 (2009),
+"Higher-order explicitly correlated coupled-cluster methods."
+
+T. Shiozaki, E. F. Valeev, and S. Hirata,
+The Journal of Chemical Physics 131, 044118 (2009),
+"Explicitly correlated combined coupled-cluster and perturbation methods."
+
+T. Shiozaki, E. F. Valeev, and S. Hirata,
+Annual Reports in Computational Chemistry, vol. 5, Elsevier 2009, pp. 131, 
+"Explicitly correlated coupled-cluster methods."
+  
+
