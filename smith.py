@@ -15,7 +15,7 @@
 ## GNU Library General Public License for more details.
 ##
 ## You should have received a copy of the GNU Library General Public License
-## along with the SMITH2 package; see COPYING.  If not, write to
+## along with the smith1 program; see COPYING.  If not, write to
 ## the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA.
 ##
 
